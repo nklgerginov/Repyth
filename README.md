@@ -1,4 +1,4 @@
-# PerfectStack - Python + React Fullstack Application
+# Repyth - Web app template for webshop/webservice etc.
 
 A high-performance fullstack application built with Python (FastAPI) and React.
 
